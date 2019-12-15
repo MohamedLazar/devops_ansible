@@ -1,0 +1,4 @@
+mysql_db: wordpress
+mysql_user: bdduser
+mysql_password: bddpassword
+mysql_host: 192.168.1.51
